@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelConverter", "ExcelConverter\ExcelConverter.csproj", "{9D63E192-D973-4862-8047-2533C30DCED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelConverter.Components", "ExcelConverter.Components\ExcelConverter.Components.csproj", "{08FE9982-EFCE-4718-B007-9A221665F2DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D63E192-D973-4862-8047-2533C30DCED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D63E192-D973-4862-8047-2533C30DCED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D63E192-D973-4862-8047-2533C30DCED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D63E192-D973-4862-8047-2533C30DCED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08FE9982-EFCE-4718-B007-9A221665F2DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08FE9982-EFCE-4718-B007-9A221665F2DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08FE9982-EFCE-4718-B007-9A221665F2DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08FE9982-EFCE-4718-B007-9A221665F2DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91419C89-8E9F-4D56-B7B2-6DA67D759E87}
+	EndGlobalSection
+EndGlobal
